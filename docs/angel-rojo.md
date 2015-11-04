@@ -2,3 +2,4 @@
 - **From**: Barcelona
 - **Fav. Food**: Paella
 - **Hobby**: Photography
+- **Fav. Color**: Red
